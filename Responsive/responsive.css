@@ -1,0 +1,16 @@
+#con{
+
+    display:flex;
+    flex-wrap: wrap;
+} 
+#con>div{
+
+    background-color: springgreen;
+    margin: 20px;
+    padding: 20px;
+    font-size: 20px;
+    width: 200px;
+}
+h1{
+  text-align: center;
+}
